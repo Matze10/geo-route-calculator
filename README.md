@@ -44,7 +44,7 @@ routes.kml – Driving paths
 distances_and_durations.csv – Distance + duration matrix
 
 🔐 Privacy
-This repository is private. All location data and API keys should be treated confidentially.
+
 
 📌 Notes
 Ensure your IP or host has access to the required Google Maps APIs.
