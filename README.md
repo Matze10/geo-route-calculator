@@ -1,6 +1,6 @@
 # geo-route-calculator
 🌿 Orchard Routing & Distance Mapping Tool
-A Python-based geospatial tool to calculate driving routes, distances, and durations between agricultural or field sites using the Google Maps API. Outputs include KML files for visualization in tools like Google Earth and CSV files for analysis and reporting.
+A Python-based geospatial tool to calculate driving routes, distances, and durations between different sites using the Google Maps API. Outputs include KML files for visualization in tools like Google Earth/QGIS and CSV files for analysis and reporting.
 
 📦 Features
 Calculates driving directions between all pairs of locations
